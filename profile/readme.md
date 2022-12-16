@@ -1,9 +1,11 @@
 # ABANDONDED.
 ### All repos have been made public. 
 
-# Statify
+### Otherwise best efforts will be made by @SomeAspy to keep resources self-hostable and secure.
 
-## A project by LabsHQ
+# ~~Statify~~
+
+## ~~A project by LabsHQ~~
 
 ### ~~Coming Soon~~
 ### ~~Join our discord: https://discord.gg/fxsZVT9BXw~~
