@@ -1,7 +1,5 @@
 # ABANDONDED.
-### All repos have been made public. 
-
-### Otherwise best efforts will be made by @SomeAspy to keep resources self-hostable and secure.
+### All repos have been made public.
 
 # ~~Statify~~
 
